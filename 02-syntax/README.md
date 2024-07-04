@@ -27,3 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
+
+binding:
+
+- truyền tham số qua biến number
+- toán tử ? :
+- Sử dụng hàm trong id: vd: ( split, join)
+- không sử dụng khai báo biến, hoặc toán tử if, else trong {{}}
+- sử dụng hàm trong id
