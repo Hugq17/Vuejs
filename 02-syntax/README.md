@@ -28,7 +28,7 @@ npm run dev
 npm run build
 ```
 
-cú pháp
+I. Cú pháp
 
 1. Html thô
 2. Ràng buộc thuộc tính
@@ -42,3 +42,13 @@ cú pháp
 7. Directives
    7.1 Đối số
    7.2 Đối số động
+
+II. Cơ bản về reactivity
+
+1. Khai báo state trong vue
+   - ref()
+   - <script setup>
+2. Deep Reactivity
+3. Thời gian cập nhật DOM - Để cập nhật dom hoàn toàn sau một trạng thái sử dụng nextTick
+4. reactive
+5. Thêm Chi Tiết Về Mở Gói Ref
