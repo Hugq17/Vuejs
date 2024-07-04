@@ -28,10 +28,17 @@ npm run dev
 npm run build
 ```
 
-binding:
+cú pháp
 
-- truyền tham số qua biến number
-- toán tử ? :
-- Sử dụng hàm trong id: vd: ( split, join)
-- không sử dụng khai báo biến, hoặc toán tử if, else trong {{}}
-- sử dụng hàm trong id
+1. Html thô
+2. Ràng buộc thuộc tính
+3. Bí danh cùng tên
+4. Thuộc tính boolean
+5. Ràng buộc động nhiều thuộc tính
+6. Sử dụng biểu thức js
+
+---
+
+7. Directives
+   7.1 Đối số
+   7.2 Đối số động
